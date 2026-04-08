@@ -44,7 +44,6 @@ export function Calendar() {
     setSelectedNoteDate(day);
   };
 
-  const currentMonthThemeColor = "rgba(255, 255, 255, 0.05)";
 
   return (
     <div className="w-full max-w-[1200px] flex flex-col xl:flex-row bg-[#080808]/40 backdrop-blur-3xl rounded-[2.5rem] overflow-hidden shadow-[0_0_100px_rgba(0,0,0,0.5)] border border-white/10 relative isolate">
