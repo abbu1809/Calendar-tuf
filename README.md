@@ -8,6 +8,14 @@
   It mimics a premium physical wall calendar, pairing monthly curated photography with advanced interactions and a sleek minimalist user interface.
 </p>
 
+<br />
+
+<p align="center">
+  <a href="https://calender.abhishekverma.me/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Live_Preview-Click_Here-blue?style=for-the-badge&logo=vercel" alt="Live Demo" />
+  </a>
+</p>
+
 </div>
 
 <br />
