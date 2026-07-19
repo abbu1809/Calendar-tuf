@@ -1,6 +1,6 @@
 import { Calendar } from './components/Calendar';
 import { motion } from 'framer-motion';
-
+import { Analytics } from '@vercel/analytics/next';
 function App() {
   return (
     <div className="min-h-screen  bg-[#abcdef]  flex items-center justify-center p-4 sm:p-8 font-sans overflow-hidden py-12 relative" >
@@ -56,7 +56,7 @@ function App() {
           </div>
         </footer>
       </div>
-
+    <Analytics />
     </div>
   );
 }
